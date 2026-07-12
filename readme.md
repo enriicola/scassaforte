@@ -1,6 +1,10 @@
 # my networth tracker
 
-![Safe mascot](https://static.vecteezy.com/ti/vettori-gratis/p1/3315732-cassaforte-mascotte-cartone-animato-con-un-bilanciere-gratuito-vettoriale.jpg)
+<img
+  src="https://it.clementoni.com/cdn/shop/files/19432.MAIN.jpg?v=1775826671"
+  alt="Safe mascot"
+  width="300"
+/>
 
 ## todos
 
