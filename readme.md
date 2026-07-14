@@ -14,3 +14,4 @@
 - [ ] track taxes
 - [ ] track TFR (italian bs)
 - [ ] sqlite
+- [ ] evaluate if tracking also monthly/yearly expenditures (if so, evaluate if grouping by category)
