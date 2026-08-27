@@ -19,4 +19,4 @@
 - [ ] track credit card (advanzia bank YOU card, mastercard gold) via exported recaps and transactions PDFs
 - [ ] initially write scassaforte in C, then evaluate if migrating it in Rust or Zig (just for language-learning purposes, even if probably there are personal finance python libraries...)
 - [ ] track personal properties like cars, motorbikes(scotters), etc
-
+- [ ] track (maybe monthly) experditures, fixed and not fixed
