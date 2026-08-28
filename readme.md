@@ -1,10 +1,13 @@
 # my networth tracker
 
-<img
+<!-- <img
   src="https://it.clementoni.com/cdn/shop/files/19432.MAIN.jpg?v=1775826671"
   alt="Safe mascot"
   width="300"
-/>
+/> -->
+
+<img width="500" height="500" alt="clementoni" src="https://github.com/user-attachments/assets/490db1c3-f004-43c8-b02b-70b66dd532a6" />
+
 
 ## todos
 
