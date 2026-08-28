@@ -5,8 +5,11 @@
   alt="Safe mascot"
   width="300"
 /> -->
-
-<img width="500" height="500" alt="clementoni" src="https://github.com/user-attachments/assets/490db1c3-f004-43c8-b02b-70b66dd532a6" />
+<img src="./clementoni.png" 
+  alt="safe mascot"
+  style="border: none !important;
+  background: transparent !important;
+/>
 
 
 ## todos
