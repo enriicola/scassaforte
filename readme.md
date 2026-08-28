@@ -7,7 +7,7 @@
 /> -->
 <img src="./clementoni.png" 
   alt="safe mascot"
-  background: transparent !important;"
+  style="background: transparent !important;"
 />
 
 
